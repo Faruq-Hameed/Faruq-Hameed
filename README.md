@@ -52,7 +52,7 @@ For all projects listed here, I only worked on the server side but with the inte
 - 🏫 Citrone : This is an edu tech online platform where learners can enrol for various tech stacks like frontend, backend and others. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
 I worked on the server side together with other two developers
 Here is the link to the full web application **[crater-citrone](https://citrone-redesign-crater.vercel.app/)**
-- E-connect: This is an instant messaging web application. Users can send and recieve messages from there friends and perform all CRUD operations in the all routes. Also authentication was done to ensure that users must accept a friend request before chating the other user. The work on this project is still ongoing as I initally built it using javaScript array to store my data when I did not have knowledge on mongoDb or any other database.  **[Github repository URl: ](https://github.com/Faruq-Hameed/vid_project))**
+-📟 E-connect: This is an instant messaging web application. Users can send and recieve messages from there friends and perform all CRUD operations in the all routes. Also authentication was done to ensure that users must accept a friend request before chating the other user. The work on this project is still ongoing as I initally built it using javaScript array to store my data when I did not have knowledge on mongoDb or any other database.  **[Github repository URl: ](https://github.com/Faruq-Hameed/vid_project))**
 - 🎥 Vid app: This is a movie rental application, hosted on railway. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params. **[Github repository URl: ](https://github.com/Faruq-Hameed/vid_project))**
 
 - 🗯️ Simple blogging: This is a blogging site where users can perform all CRUD operations on there posts. Other users too can comment and perfom CRUD operations on another user's post. **[Github repository URl: ](https://github.com/Faruq-Hameed/simple_blogging)**
@@ -61,7 +61,7 @@ Here is the link to the full web application **[crater-citrone](https://citrone-
 
 # Others
 * 📄 CV/ Resume 
-  - [click here to view my cv](https://google.com)
+  - [click here to view my cv](https://drive.google.com/file/d/1sywrBzFoohwJ8BTgR7rXsbSjTO7dmzxg/view?usp=share_link)
 * 🌐 Socials
   - [LinkedIn](www.linkedin.com/in/faruq-hameed1)
   - [Twitter](https://twitter.com/King_Flourish)
