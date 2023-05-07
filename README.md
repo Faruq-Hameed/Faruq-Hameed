@@ -1,7 +1,7 @@
 ## Hi, I am Faruq Hameed.
 # I am a software developer.
 
-I'm a software engineer based in Nigeria with ability to relocate within and outside the country. I have hands-on experience in all levels of the software life cycle. I enjoy learning new langauges and frameworks like Nodejs and express, I love building scalable applications that solve real world problems.
+I'm a software engineer based in Nigeria with ability to relocate within and outside the country. I have hands-on experience on the server sides of softtware development life cycle. I enjoy learning new langauges and frameworks like Nodejs and express, I love building scalable applications that solve real world problems.
 
 📫  How to reach me: 
 [^1]:
