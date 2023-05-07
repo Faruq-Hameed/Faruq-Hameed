@@ -54,7 +54,6 @@ Here is the link to the full web application [crater-citrone](https://citrone-re
 
 -  E-commerce website : I'm currently working on this server side of this E-commerce website. The Users and Admins can perdorm various CRUD operations based on different authentication and authorization. The link to the repo is pinned at the bottom of this page(named; **node-e-commerce**).
 
-
 # Others
 * 📄 CV/ Resume 
   * [click here to view my cv](https://google.com)
