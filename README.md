@@ -12,10 +12,15 @@ I'm a Nigerian software engineer based in Ibadan, Nigeria with ability to reloca
 ![profile](https://user-images.githubusercontent.com/108727947/236615977-82faf984-84c3-4eba-8e79-1ab9d17001c5.jpg)
 
 # 👨‍🎓 EDUCATION
-* UNIVERSITY Of Ibadan, Nigeria 2021
-* Bachelor of Agric. Economics
+* UNIVERSITY Of IBADAN, Nigeria 2021
 [^1]:
-STUTERN 2023
+
+Bachelor of Agric. Economics
+
+[^1]:
+
+* STUTERN 2022
+[^1]:
 Stutern Graduate Accelerator Programme Software Development.
 [^2]:
 
@@ -23,7 +28,7 @@ Stutern Graduate Accelerator Programme Software Development.
 
 ## STUTERN
 SOFTWARE ENGINEER INTERN
-June 2021 - May 2023
+June 2022 - May 2023
 * Developed REST APIs, including validation, user authentication and leveraging knowledge of JavaScript, NodeJS, ExpressJS, MongoDB, mongoose, Git, Postman.
 * Completed the development of multiple web applications with Html, CSS andJavaScript.
 * Volunteered as beginner software tutor for Stutern beginner short course(software development track feb and march 2023)
@@ -46,17 +51,17 @@ June 2021 - May 2023
 For all projects listed here, I only worked on the server side but with the intention of writing the frontend codes as my knowledge of the stack (MERN) widens. The projects are;
 - 🏫 Citrone : This is an edu tech online platform where learners can enrol for various tech stacks like frontend, backend and others. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
 I worked on the server side together with other two developers
-Here is the link to the full web application [crater-citrone](https://citrone-redesign-crater.vercel.app/)
+Here is the link to the full web application **[crater-citrone](https://citrone-redesign-crater.vercel.app/)**
+- E-connect: This is an instant messaging web application. Users can send and recieve messages from there friends and perform all CRUD operations in the all routes. Also authentication was done to ensure that users must accept a friend request before chating the other user. The work on this project is still ongoing as I initally built it using javaScript array to store my data when I did not have knowledge on mongoDb or any other database.  **[Github repository URl: ](https://github.com/Faruq-Hameed/vid_project))**
+- 🎥 Vid app: This is a movie rental application, hosted on railway. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params. **[Github repository URl: ](https://github.com/Faruq-Hameed/vid_project))**
 
-- 🎥 Vid app: This is a movie rental application, hosted on railway. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params. 
+- 🗯️ Simple blogging: This is a blogging site where users can perform all CRUD operations on there posts. Other users too can comment and perfom CRUD operations on another user's post. **[Github repository URl: ](https://github.com/Faruq-Hameed/simple_blogging)**
 
-- 🗯️ Simple blogging: This is a blogging site where users can perform all CRUD operations on there posts. Other users too can comment and perfom CRUD operations on another user's post
-
--  E-commerce website : I'm currently working on this server side of this E-commerce website. The Users and Admins can perdorm various CRUD operations based on different authentication and authorization. The link to the repo is pinned at the bottom of this page(named; **node-e-commerce**).
+- 🚐 E-commerce website : I'm currently working on this server side of this E-commerce website. The Users and Admins can perdorm various CRUD operations based on different authentication and authorization. Vercel deployment URL:  [faruq-e-commerce](https://faruq-e-commerce.vercel.app/)
 
 # Others
 * 📄 CV/ Resume 
-  * [click here to view my cv](https://google.com)
+  - [click here to view my cv](https://google.com)
 * 🌐 Socials
- * [inkedIn](www.linkedin.com/in/faruq-hameed1)
- * [Twitter](https://twitter.com/King_Flourish)
+  - [LinkedIn](www.linkedin.com/in/faruq-hameed1)
+  - [Twitter](https://twitter.com/King_Flourish)
