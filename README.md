@@ -5,7 +5,7 @@ I'm a software engineer based in Nigeria with ability to relocate within and out
 
 📫  How to reach me: 
 [^1]:
-• 📞 +234-810-062-3821            • 📞 +234-806-171-8441
+  • 📞 +234-806-171-8441
 [^1]:
 ✍ faruqhameed1@gmail.com
 [^1]:
@@ -58,10 +58,9 @@ Here is the link to the full web application **[crater-citrone](https://citrone-
 - 🗯️ Simple blogging: This is a blogging site where users can perform all CRUD operations on there posts. Other users too can comment and perfom CRUD operations on another user's post. **[Github repository URl: ](https://github.com/Faruq-Hameed/simple_blogging)**
 
 - 🚐 E-commerce website : I'm currently working on this server side of this E-commerce website. The Users and Admins can perdorm various CRUD operations based on different authentication and authorization.  **[Vercel deployment URL:](https://faruq-e-commerce.vercel.app/)**
-
 # Others
 * 📄 CV/ Resume 
   - [click here to view my cv](https://drive.google.com/file/d/1sywrBzFoohwJ8BTgR7rXsbSjTO7dmzxg/view?usp=share_link)
 * 🌐 Socials
-  - [LinkedIn](www.linkedin.com/in/faruq-hameed1)
-  - [Twitter](https://twitter.com/King_Flourish)
+  - [My LinkedIn](www.linkedin.com/in/faruq-hameed1)
+  - [My Twitter](https://twitter.com/King_Flourish)
