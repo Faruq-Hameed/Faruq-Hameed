@@ -65,3 +65,4 @@ Here is the link to the full web application **[crater-citrone](https://citrone-
 * 🌐 Socials
   - [My LinkedIn](www.linkedin.com/in/faruq-hameed1)
   - [My Twitter](https://twitter.com/King_Flourish)
+  - [My Github Profile](https://github.com/Faruq-Hameed/)
