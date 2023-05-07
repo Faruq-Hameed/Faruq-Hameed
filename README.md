@@ -1,16 +1,63 @@
-### Hi there 👋
+## Hi, I am Faruq Hameed.
+# I am a software developer.
 
-<!--
-**Faruq-Hameed/Faruq-Hameed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Nigerian software engineer based in Ibadan, Nigeria with ability to relocate. I have hands-on experience in all levels of the software life cycle. I enjoy learning new langauges and frameworks like Nodejs and express, I love building scalable applications that solve real world problems.
 
-Here are some ideas to get you started:
+📫  How to reach me: 
+[^1]:
+• 📞 +234-810-062-3821            • 📞 +234-806-171-8441
+[^1]:
+✍ faruqhameed1@gmail.com
+[^1]:
+![profile](https://user-images.githubusercontent.com/108727947/236615977-82faf984-84c3-4eba-8e79-1ab9d17001c5.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍🎓 EDUCATION
+* UNIVERSITY Of Ibadan, Nigeria 2021
+* Bachelor of Agric. Economics
+[^1]:
+STUTERN 2023
+Stutern Graduate Accelerator Programme Software Development.
+[^2]:
+
+# 🏢 Experiences
+
+## STUTERN
+SOFTWARE ENGINEER INTERN
+June 2021 - May 2023
+* Developed REST APIs, including validation, user authentication and leveraging knowledge of JavaScript, NodeJS, ExpressJS, MongoDB, mongoose, Git, Postman.
+* Completed the development of multiple web applications with Html, CSS andJavaScript.
+* Volunteered as beginner software tutor for Stutern beginner short course(software development track feb and march 2023)
+
+##
+
+# 👩‍💻 Skills
+
+* Proficient in MongoDB, Mongoose, Express.js, and Node.js for backend development
+* Experienced in hosting web applications on GitHub, Vercel, and Railway
+* Skilled in using HTML, CSS, and Bootstrap to create responsive and visually appealing user interfaces
+* Comfortable working with RESTful APIs and building scalable systems using microservices
+* Experienced in using Postman and Thunder Client for testing APIs and debugging
+* Skilled in using Passport.js for authentication and authorization
+* Experienced in integrating third-party APIs into web applications
+* Proficient in using MongoDB Atlas and MongoDB Compass for database management.
+# 
+
+# 🔭 Project
+For all projects listed here, I only worked on the server side but with the intention of writing the frontend codes as my knowledge of the stack (MERN) widens. The projects are;
+- 🏫 Citrone : This is an edu tech online platform where learners can enrol for various tech stacks like frontend, backend and others. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
+I worked on the server side together with other two developers
+Here is the link to the full web application [crater-citrone](https://citrone-redesign-crater.vercel.app/)
+
+- 🎥 Vid app: This is a movie rental application, hosted on railway. The vid app allows the customers(users) to rent movies, search for movies based on genres, actors and other search params. 
+
+- 🗯️ Simple blogging: This is a blogging site where users can perform all CRUD operations on there posts. Other users too can comment and perfom CRUD operations on another user's post
+
+-  E-commerce website : I'm currently working on this server side of this E-commerce website. The Users and Admins can perdorm various CRUD operations based on different authentication and authorization. The link to the repo is pinned at the bottom of this page(named; **node-e-commerce**).
+
+
+# Others
+* 📄 CV/ Resume 
+  * [click here to view my cv](https://google.com)
+* 🌐 Socials
+ * [inkedIn](www.linkedin.com/in/faruq-hameed1)
+ * [Twitter](https://twitter.com/King_Flourish)
