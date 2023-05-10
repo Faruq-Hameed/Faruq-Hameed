@@ -62,6 +62,7 @@ Here is the link to the full web application **[crater-citrone](https://citrone-
 * 📄 CV/ Resume 
   - [Click here to view my cv](https://drive.google.com/file/d/1sywrBzFoohwJ8BTgR7rXsbSjTO7dmzxg/view?usp=share_link)
 * 🌐 Socials
-  - [My LinkedIn](https://www.linkedin.com/in/faruq-hameed1)
+* 
+  - [My LinkedIn](https://www.linkedin.com/in/faruq-hameed-2ab121129)
   - [My Twitter](https://twitter.com/King_Flourish)
   - [My Github Profile](https://github.com/Faruq-Hameed/)
