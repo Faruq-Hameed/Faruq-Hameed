@@ -47,7 +47,7 @@ June 2022 - May 2023
 
 
 
-# 🔭 Project
+# 🔭 Projects
 For all projects listed here, I only worked on the server side but with the intention of writing the frontend codes as my knowledge of the stack (MERN) widens. The projects are;
 - 🏫 Citrone : This is an edu tech online platform where learners can enrol for various tech stacks like frontend, backend and others. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
 I worked on the server side together with other two developers
