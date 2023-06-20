@@ -60,7 +60,7 @@ Here is the link to the full web application **[crater-citrone](https://citrone-
 - 🚐 E-commerce website : I'm currently working on this server side of this E-commerce website. The Users and Admins can perdorm various CRUD operations based on different authentication and authorization.  **[Vercel deployment URL](https://faruq-e-commerce.vercel.app/)**
 # Others
 * 📄 CV/ Resume 
-  - [Click here to view my cv](https://drive.google.com/file/d/1sywrBzFoohwJ8BTgR7rXsbSjTO7dmzxg/view?usp=share_link)
+  - [Click here to view my cv](https://drive.google.com/file/d/1ke5oZHioIjZVouWIVX9A6aqVhp1_7YBj/view?usp=sharing)
 * 🌐 Socials
 * 
   - [My LinkedIn](https://www.linkedin.com/in/faruq-hameed-2ab121129)
