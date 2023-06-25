@@ -1,7 +1,7 @@
 ## Hi, I am Faruq Hameed.
 # I am a software developer.
 
-I'm a software engineer based in Nigeria, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am well-versed in programming languages and frameworks such as Node.js and Express, and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
+I'm a software engineer based in Nigeria, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as Node.js and Express, and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
 
 📫  **How to reach me:** 
 [^1]:
