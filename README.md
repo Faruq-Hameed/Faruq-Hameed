@@ -37,10 +37,10 @@ June 2022 - May 2023
 
 # 👩‍💻 Skills
 
-| Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies |
+| Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies | 
 | :---:        | :---: | :---: |    :---:      | :---: |
 | JavaScript   | Node.js | MongoDB |Deployment: Git,Railway,Heroku,Vercel    | Agile software development    |
-| - HTML    |  Express.js | Mongoose | Testing and Debugging: Postman,Thunder Client    | Test-driven development (TDD)      |
+| - HTML    |  Express.js | Mongoose | Testing and Debugging: Autocannon, Postman,Thunder Client,Jest    | Test-driven development (TDD)      |
 | - CSS    | Bootstrap |   | Others:  VScode, MongoDB Compass, MongoDB Atlas    | Continuous Integration/Continuous Deployment (CI/CD)      |
 |   | |  |   | RESTful APIs   |
 |     | |  |   | Microservices   |
