@@ -37,7 +37,7 @@ June 2022 - May 2023
 
 # 👩‍💻 Skills
 
-| Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies | 
+| Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies/ Achitectures| 
 | :---:        | :---: | :---: |    :---:      | :---: |
 | -JavaScript   | | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
 | - HTML    |  Express.js | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
