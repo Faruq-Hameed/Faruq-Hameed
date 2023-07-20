@@ -15,7 +15,6 @@ I'm a software engineer based in Nigeria, I have acquired hands-on experience in
 * UNIVERSITY Of IBADAN, Nigeria 2021
 [^1]:
 
-Bachelor of Agric. Economics
 
 [^1]:
 
