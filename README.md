@@ -38,11 +38,11 @@ June 2022 - May 2023
 
 | Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies/ Achitectures| 
 | :---:        | :---: | :---: |    :---:      | :---: |
-| -JavaScript   | | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
-| - HTML    |  Express.js | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
+| -JavaScript   | Express.js | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
+| - HTML    |   | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
 | - CSS    | Bootstrap |   | Others:  VScode, MongoDB Compass, MongoDB Atlas    |   Agile software development    |
 |  - Node.js | |  |Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
-|     | |  |   |   Test-driven development (TDD) |
+|   Typescript  | |  |   |   Test-driven development (TDD) |
 
 
 
