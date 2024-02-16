@@ -1,7 +1,7 @@
 ## Hi, I am Faruq Hameed.
 # I am a software developer.
 
-I'm a software engineer based in Nigeria, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as Node.js and Express, and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
+I'm a software engineer based in Nigeria focusing on backend development, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as Node.js and Express, and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
 
 📫  **How to reach me:** 
 [^1]:
@@ -20,7 +20,7 @@ I'm a software engineer based in Nigeria, I have acquired hands-on experience in
 
 * STUTERN 2022
 [^1]:
-Stutern Graduate Accelerator Programme Software Development.
+Stutern Graduate Accelerator Programme (Intern Software Development).
 [^2]:
 
 
@@ -31,13 +31,13 @@ Stutern Graduate Accelerator Programme Software Development.
 | :---:        | :---: | :---: |    :---:      | :---: |
 | -JavaScript   | Express.js | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
 | - HTML    |   | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
-| - CSS    | Bootstrap |   | Others:  VScode, MongoDB Compass, MongoDB Atlas    |   Agile software development    |
+| - CSS    | Bootstrap | PostgreSQL  | Others:  VScode, MongoDB Compass, MongoDB Atlas    |   Agile software development    |
 |  - Node.js | |  |Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
-|   Typescript  | |  |   |   Test-driven development (TDD) |
+|   Typescript  | |  | Redis(Caching)  |   Test-driven development (TDD) |
 
 
 
-# 🔭 Projects
+# 🔭 Simple Projects Built
 For all projects listed here, I only worked on the server side but with the intention of writing the frontend codes as my knowledge of the stack (MERN) widens. The projects are;
 - 🏫 Citrone :  Citrone is an innovative web application designed to empower educators in creating captivating learning experiences for students. Leveraging technologies such as Express, MongoDB, and Passport, I contributed to the backend implementation, enabling essential functionalities like user authentication and password reset. The application offers user routes for seamless user profile management and incorporates authenticated routes, accessible solely by the admin, to facilitate course and module administration. As a valued member of the backend team, my contributions significantly contributed to the successful development of Citrone, effectively showcasing my expertise in full-stack web development and RESTful API design. This live project stands as a testament to my collaborative skills and proficiency in delivering impactful educational solutions.
 Here is the link to the full web application **[crater-citrone](https://citrone.co/)**
