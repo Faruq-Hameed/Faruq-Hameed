@@ -29,11 +29,11 @@ Stutern Graduate Accelerator Programme (Intern Software Development).
 
 | Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies/ Achitectures| 
 | :---:        | :---: | :---: |    :---:      | :---: |
-| -JavaScript   | Express.js | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
-| - HTML    |   | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
-| - CSS    | Bootstrap | PostgreSQL  | Others:  VScode, MongoDB Compass, MongoDB Atlas    |   Agile software development    |
-|  - Node.js | |  |Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
-|   Typescript  | |  | Redis(Caching)  |   Test-driven development (TDD) |
+| - Typescript  | Express.js | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
+| -   Node.js  |   | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
+| - JavaScript   | Bootstrap | PostgreSQL  | Others:  VScode, MongoDB Compass, MongoDB Atlas    |   Agile software development    |
+|  - HTML | |  |Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
+|     CSS | |  | Redis(Caching)  |   Test-driven development (TDD) |
 
 
 
