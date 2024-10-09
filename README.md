@@ -13,9 +13,9 @@ I'm a software engineer based in Nigeria focusing on backend development, I have
 
 # 👨‍🎓 EDUCATION
 
-*Leadcity University Of IBADAN, Nigeria feb 2024 - till date
+* Leadcity University Of Ibadan, Nigeria feb 2024 - till date
 [^1]:
-MSC Computer and Information Science
+   MSC Computer and Information Science
 [^1]:
 
 
