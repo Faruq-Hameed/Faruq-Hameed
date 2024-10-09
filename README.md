@@ -12,6 +12,13 @@ I'm a software engineer based in Nigeria focusing on backend development, I have
 ![profile](https://user-images.githubusercontent.com/108727947/236615977-82faf984-84c3-4eba-8e79-1ab9d17001c5.jpg)
 
 # 👨‍🎓 EDUCATION
+
+*Leadcity University Of IBADAN, Nigeria feb 2024 - till date
+[^1]:
+MSC Computer and Information Science
+[^1]:
+
+
 * UNIVERSITY Of IBADAN, Nigeria 2021
 [^1]:
 
