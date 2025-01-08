@@ -29,10 +29,10 @@ I'm a software engineer based in Nigeria focusing on backend development, I have
 | Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies/ Achitectures| 
 | :---:        | :---: | :---: |    :---:      | :---: |
 | - Typescript  | Express.js | MongoDB |DEPLOYMENT: Railway,Heroku,Vercel    |  RESTful APIs   |
-| -   Node.js  | React  | Mongoose | TESTING and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
-| - JavaScript   |React Native  | PostgreSQL  | DEVELOPMENT: Andriod Studio, Expo Go, VScode, MongoDB Compass and Atlas    |   Agile software development(Jira)    |
-|  - HTML |Bootstrap |Sequelize ORM  |Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
-|     CSS | | Redis(Caching) |  Figma, |   State Management: Redux, Context API |
+| -   Node.js  | React  | Mongoose | TESTING and Debugging:   Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
+| - JavaScript   |React Native  | PostgreSQL  | Andriod Studio, Expo Go, VScode, MongoDB Compass and Atlas    |   Agile software development(Jira)    |
+|  - HTML |Bootstrap |Sequelize ORM  |Optimization: Load Balancer, Caching, Ngnix  |  Continuous Integration/Continuous Deployment (CI/CD)  |
+|     CSS | Nest| Redis (Caching) |  Figma, |   State Management: Redux, Context API |
 
 
 * 🌐 Socials
