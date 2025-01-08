@@ -21,7 +21,7 @@ I'm a software engineer based in Nigeria with about 4 years experience focusing 
 
 
 * UNIVERSITY Of IBADAN, Nigeria 2021
-[^1]:
+[^1]: BSC Agric. Economics
 
 
 
