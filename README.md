@@ -1,7 +1,7 @@
 ## Hi, I am Faruq Hameed.
 # I am a software developer.
 
-I'm a software engineer based in Nigeria focusing on backend development, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as Node.js and Express, and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
+I'm a software engineer based in Nigeria focusing on backend development, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as Typescript, Node.js, Express, React Native and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
 
 📫  **How to reach me:** 
 [^1]:
@@ -23,24 +23,16 @@ I'm a software engineer based in Nigeria focusing on backend development, I have
 [^1]:
 
 
-[^1]:
-
-* STUTERN 2022
-[^1]:
-Stutern Graduate Accelerator Programme (Intern Software Development).
-[^2]:
-
-
 
 # 👩‍💻 Skills
 
 | Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies/ Achitectures| 
 | :---:        | :---: | :---: |    :---:      | :---: |
-| - Typescript  | Express.js | MongoDB |Deployment: Git,Railway,Heroku,Vercel    |  RESTful APIs   |
-| -   Node.js  |   | Mongoose | Testing and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
-| - JavaScript   | Bootstrap | PostgreSQL  | Others:  VScode, MongoDB Compass, MongoDB Atlas    |   Agile software development(Jira)    |
-|  - HTML | |  PostgreSQL|Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
-|     CSS | |  Sequelize ORM| Redis(Caching)  |   Test-driven development (TDD) |
+| - Typescript  | Express.js | MongoDB |DEPLOYMENT: Railway,Heroku,Vercel    |  RESTful APIs   |
+| -   Node.js  | React  | Mongoose | TESTING and Debugging: Autocannon, Jest, Postman, Thunder Client    |   Microservices   |
+| - JavaScript   |React Native  | PostgreSQL  | DEVELOPMENT: Andriod Studio, Expo Go, VScode, MongoDB Compass and Atlas    |   Agile software development(Jira)    |
+|  - HTML |Bootstrap |Sequelize ORM  |Optimization: Load Balancer, Caching   |  Continuous Integration/Continuous Deployment (CI/CD)  |
+|     CSS | | Redis(Caching) |  Figma, |   State Management: Redux, Context API |
 
 
 * 🌐 Socials
