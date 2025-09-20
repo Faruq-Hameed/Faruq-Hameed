@@ -1,11 +1,11 @@
 ## Hi, I am Faruq Hameed.
 # Software Engineer | Backend Developer | Mobile and Web Dev
 
-I'm a software engineer based in Nigeria with about 4 years experience focusing on backend development, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as Typescript, Node.js, Express, React Native and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
+I'm a software engineer based in Nigeria with about 4 years experience focusing on backend development, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as NestJs, Typescript, Node.js, Express, React Native and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
 
 📫  **How to reach me:** 
 [^1]:
-  • 📞 +234-806-171-8441
+  • 📞 +234-810-062-3821
 [^1]:
 ✍ faruqhameed1@gmail.com
 [^1]:
@@ -13,7 +13,7 @@ I'm a software engineer based in Nigeria with about 4 years experience focusing 
 
 # 👨‍🎓 EDUCATION
 
-* Leadcity University Of Ibadan, Nigeria feb 2024 - till date
+* Leadcity University Of Ibadan, Nigeria Feb 2024 -  Dec. 2025
 [^1]:
    MSC Computer and Information Science
 [^1]:
@@ -35,7 +35,7 @@ I'm a software engineer based in Nigeria with about 4 years experience focusing 
 |  - HTML |Bootstrap |Sequelize ORM  |Optimization: Load Balancer, Caching, Ngnix  |  Continuous Integration/Continuous Deployment (CI/CD)  |
 |     CSS | Nest js| Redis (Caching) |  VScode, Figma,Andriod Studio, Expo Go, Docker|   State Management: Redux, Context API |
 
-
+# Currently Learning: Java 👩‍💻
 * 🌐 Socials
 * 
   - [My LinkedIn](https://www.linkedin.com/in/faruq-hameed-2ab121129)
