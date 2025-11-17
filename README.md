@@ -44,7 +44,7 @@ I’m passionate about writing quality code, improving development workflows, an
 ## GitHub Stats & Activity  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Faruq-Hameed&theme=tokyonight)](https://git.io/streak-stats) **Contributions Streak**:contentReference[oaicite:26]{index=26}  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Hameed&show_icons=true&theme=radical)](https://github.com/Faruq-Hameed) **Total Activity**:contentReference[oaicite:27]{index=27}  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Hameed&layout=compact&theme=radical)](https://github.com/Faruq-Hameed) **Top Languages**:contentReference[oaicite:28]{index=28}  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Hameed&layout=compact&theme=radical&include_all_commits=true](https://github.com/Faruq-Hameed) **Top Languages**:contentReference[oaicite:28]{index=28}  
 
 * 🌐 Socials
 * 
