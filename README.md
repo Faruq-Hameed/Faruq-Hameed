@@ -42,8 +42,8 @@ I’m passionate about writing quality code, improving development workflows, an
 # Currently Learning: Java 👩‍💻
 
 ## GitHub Stats & Activity  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Faruq-Hameed&theme=tokyonight)](https://git.io/streak-stats) **Contributions Streak**:contentReference[oaicite:26]{index=26}  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Hameed&show_icons=true&theme=radical)](https://github.com/Faruq-Hameed) **Total Activity**:contentReference[oaicite:27]{index=27}  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Faruq-Hameed&theme=tokyonight)](https://git.io/streak-stats) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faruq-Hameed&show_icons=true&theme=radical)](https://github.com/Faruq-Hameed) 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faruq-Hameed&layout=compact&theme=radical)](https://github.com/Faruq-Hameed) 
 
 * 🌐 Socials
