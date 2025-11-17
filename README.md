@@ -35,11 +35,11 @@ I’m passionate about writing quality code, improving development workflows, an
 
 | Programming Languages |  Frameworks and Libraries | Databases and ORMs | Tools | Methodologies/ Achitectures| 
 | :---:        | :---: | :---: |    :---:      | :---: |
-| - Typescript  | Express.js | MongoDB, Mongoose |DEPLOYMENT: Railway,Heroku,Vercel    |  RESTful APIs, Microservices   |
-| -   Node.js  | React  | MySQL, PostgreSQL, TypeORM, Sequelie | TESTING and Debugging:   Autocannon, Jest, Postman, Thunder Client    |   Figma Collaboration, UI/UX Implementation   |
-| - JavaScript   |React Native  | Redis (Caching)  |  Redis Insight, pgadmin4, MongoDB Compass, Atlas    |   Agile software development(Jira)    |
-|  - HTML |Bootstrap |AsyncStorage, Expo SecureStore, Key-Value Storage  |Optimization: Load Balancer, Caching, Ngnix  |  Continuous Integration/Continuous Deployment (CI/CD)  |
-|     CSS | Nest js| Firebase |  VScode, Figma,Andriod Studio, Expo Go, Docker|   State Management: Redux, Context API |
+| Typescript  | Express.js | MongoDB, Mongoose |DEPLOYMENT: Railway,Heroku,Vercel    |  RESTful APIs, Microservices   |
+| Node.js  | React  | MySQL, PostgreSQL, TypeORM, Sequelize | TESTING and Debugging:   Autocannon, Jest, Postman, Thunder Client, Andriod emulator, TestFlight, Expo client    |   Figma Collaboration, UI/UX Implementation   |
+| JavaScript   |React Native  | Redis (Caching)  |  Redis Insight, pgadmin4, MongoDB Compass, Atlas    |   Agile software development(Jira)    |
+|  HTML, CSS |Expo |AsyncStorage, Expo SecureStore, Key-Value Storage  |Optimization: Load Balancer, Caching, Ngnix  |  Continuous Integration/Continuous Deployment (CI/CD)  |
+|     Java | Nest js| Firebase |  VScode, Figma,Andriod Studio, Expo Go, Docker|   State Management: Redux, Context API |
 
 # Currently Learning: Java 👩‍💻
 
