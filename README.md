@@ -1,7 +1,12 @@
 ## Hi, I am Faruq Hameed.
 # Software Engineer | Backend Developer | Mobile and Web Dev
 
-I'm a software engineer based in Nigeria with about 4 years experience focusing on backend development, I have acquired hands-on experience in developing backend solutions for software applications. My expertise lies in building scalable and efficient backend systems that support the development of high-quality software. I am fast in developing RESTful APIs services I am well-versed in programming languages and frameworks such as NestJs, Typescript, Node.js, Express, React Native and I am committed to maintaining code quality and testing standards in all my projects. I am eager to continue growing my skills and contributing to the success of any team I work with. Additionally, I possess the ability to relocate both within and outside Nigeria for any new opportunities that may arise.
+I’m an intermediate Fullstack Developer with 4 years of professional experience across fintech, edtech, and high-growth startups. I specialize in backend engineering and mobile development, delivering secure, scalable software across web, iOS, and Android platforms.
+[^1]:
+On the backend, I build reliable and high-performance APIs using Node.js, Express, NestJS, MongoDB, and PostgreSQL, with strong focus on clean architecture, testing, and optimization. I’m fast and dependable when it comes to developing backend systems that power production applications.
+[^1]:
+Over the past 2 years, I’ve also developed hands-on experience in mobile development, creating production-grade apps using React Native, Expo, and Context API. I work closely with designers via Figma to ship smooth, cross-platform user experiences.
+I’m passionate about writing quality code, improving development workflows, and contributing meaningfully to team success. I’m open to remote and relocation opportunities within or outside Nigeria.
 
 📫  **How to reach me:** 
 [^1]:
